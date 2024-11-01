@@ -1,2 +1,13 @@
-# Budget-Loft
-Budget Loft is an educational app aimed at teaching financial literacy to youth. It features quizzes, real-life scenarios, an expense tracker, and Smart Saver tools to promote saving. With financial tips, a streak system, and a Crypto 101 section, Budget Loft uses engaging methods to foster responsible financial habits among young learners.
+# Budget Loft - Financial Youth Literacy App
+TABLE OF CONTENTS
+1)Introduction
+2)Project Structure and Setup
+3)Feature Documentation
+4)User Interface (UI) and Design
+5)Technical Specifications
+6)Data Handling and Privacy
+7)Testing and Quality Assurance
+8)Deployment and Release Management
+9)User Guide
+10)Future Enhancements and Roadmap
+11)Contributing Guide
